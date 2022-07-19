@@ -1,3 +1,0 @@
-setuptools==40.5.0
-flake8==3.6.0
-mistune==0.8.4

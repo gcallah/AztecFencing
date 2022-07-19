@@ -2,7 +2,7 @@
     <head>
 <!--include head.txt -->
         <title>
-            Code Corner
+            Aztec Fencing
         </title>
     </head>
 
@@ -10,12 +10,9 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-# Code Corner
+# Aztec Fencing
 
 ## Topics
-
-- [Cutting over an interface](interface_cutover.html)
-- More to come!
 
 </body>
 </html>
