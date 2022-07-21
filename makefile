@@ -6,7 +6,7 @@ export MARKDOWN_DIR = markdown
 PTML_DIR = html_src
 UTILS_DIR = utils
 DOCKER_DIR = docker
-PANDOC = /home/gcallah/pandoc-2.9.2.1/bin/pandoc
+PANDOC = /usr/local/bin/pandoc
 REPO = CodeCorner
 
 INCS = $(TEMPLATE_DIR)/head.txt $(TEMPLATE_DIR)/logo.txt $(TEMPLATE_DIR)/menu.txt

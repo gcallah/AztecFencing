@@ -48,10 +48,10 @@ a {
     color: #aaf;
 }
 a:link {
-    color: #0f0;
+    color: #f00;
 }
 a:visited {
-    color: #1ea;
+    color: #e1a;
 }
 
 p.model {
@@ -86,14 +86,14 @@ h1 {
     margin: 1em 8em 1.4em 8em;
     text-align: center;
     font-size: 2em;
-    color: #181;
-    background-color: #adc;
+    color: #812;
+    background-color: #dac;
 }
 
 h2 {
     font-size: 1.8em;
     margin: 1.4em .6em 1.3em .6em;
-    color: #9c9;
+    color: #c69;
 }
 
 h2.subhead {
@@ -150,3 +150,7 @@ summary.menu_sum {
     margin: .5em 0em .5em 0em;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+}
