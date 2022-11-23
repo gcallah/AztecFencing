@@ -15,7 +15,7 @@
 
 ## What We Do
 
-Your text here!
+Aztec fencing specializes in high-quality, custom fencing and decks.
 
 ## Photos
 

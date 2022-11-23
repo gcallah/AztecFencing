@@ -10,7 +10,11 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-<h1>Aztec Fencing: About Us</h1>
-<p>Aztec Fencing Specializes in high-quality, custom fences and decks. We have been in business in the Midlands for over 15 years.</p>
+# Aztec Fencing: About Us
+
+
+Aztec Fencing Specializes in high-quality, custom fences and decks. We
+have been in business in the Midlands for over 15 years.
+
 </body>
 </html>
