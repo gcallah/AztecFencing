@@ -29,7 +29,17 @@ Here are some samples of our work:
     style="vertical-align:middle;margin:10px 10px">
     <img src="images/IMG_0238.jpg" alt="A lovely bridge" width="20%"
     style="vertical-align:middle;margin:10px 10px">
-    <img src="images/IMG_7363.jpg" alt="A lovely bridge" width="20%"
+    <img src="images/IMG_7363.jpg" alt="A backyard enclosure" width="20%"
+    style="vertical-align:middle;margin:10px 10px">
+    <br>
+    <br>
+    <img src="images/PastureFencing1.jpg" alt="Pasture fencing" width="20%"
+    style="vertical-align:middle;margin:10px 10px">
+    <img src="images/PastureFencing2.jpg" alt="Pasture fencing" width="20%"
+    style="vertical-align:middle;margin:10px 10px">
+    <img src="images/YardFence1.jpg" alt="Yard fencing" width="20%"
+    style="vertical-align:middle;margin:10px 10px">
+    <img src="images/YardFence2.jpg" alt="Yard fencing" width="20%"
     style="vertical-align:middle;margin:10px 10px">
 </div>
 
