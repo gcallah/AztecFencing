@@ -31,8 +31,10 @@ Here are some samples of our work:
     style="vertical-align:middle;margin:10px 10px">
     <img src="images/IMG_7363.jpg" alt="A backyard enclosure" width="20%"
     style="vertical-align:middle;margin:10px 10px">
+</div>
     <br>
     <br>
+<div class="container">
     <img src="images/PastureFencing1.jpg" alt="Pasture fencing" width="20%"
     style="vertical-align:middle;margin:10px 10px">
     <img src="images/PastureFencing2.jpg" alt="Pasture fencing" width="20%"
