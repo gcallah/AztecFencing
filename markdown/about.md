@@ -14,7 +14,7 @@
 
 
 Aztec Fencing Specializes in high-quality, custom fences and decks. We
-have been in business in the Midlands for over 15 years.
+have been in business in the Midlands for over 35 years.
 
 </body>
 </html>
